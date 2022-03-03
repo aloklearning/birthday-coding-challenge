@@ -1,0 +1,19 @@
+{
+  "name": "settlements-birthday-test-virrip",
+  "version": "1.0.0",
+  "description": "Given a JSON list of people and their dates of birth, write a function to list out the people whose birthday is today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://saltpay-yrfmqq@git.codesubmit.io/saltpay/settlements-birthday-test-virrip"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
