@@ -6,7 +6,7 @@ If a person was born on Feb 29th, then their birthday during a non-leap year sho
 
 Input sample:
 
-```
+```JSON
 [
 	["Doe", "John", "1982/10/08"],
 	["Wayne", "Bruce", "1965/01/30"],
