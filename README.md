@@ -15,20 +15,3 @@ Input sample:
 ]
 ```
 
-You can use whichever programming language you like. The assignment should take no more than an hour - if it's taking you longer than that, consider whether you're overcomplicating things.
-
-### Evaluation Criteria
-
-Must have:
-
-* Tests to check if your code is correct, robust and complete
-* Iterative development, backed by commit history
-* Testing more scenarios than the input sample provided above. Think about edge cases.
-
-Nice to have:
-
-* Instructions on how to run the code
-* TDD
-* Modular, cohesive code with sensible separation of concerns
-* No over-engineering (you don't need a web framework, database etc). Keep it as simple as possible, but no simpler :)
-
