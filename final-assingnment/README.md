@@ -3,7 +3,7 @@
 - This project is all about giving birthday list of the people whose birthday is falling today (Month and Date wise). The list will be provided which is in the form of Array of Arrays.
 - Leap year consideration should be taken care of before giving out the list
 
-## Checklists for submission the project
+## Checklists
 
 - [x] Iterative development, backed by commit history
 - [x] Testing more scenarios than the input sample provided above. Think about edge cases.
