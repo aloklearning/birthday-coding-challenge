@@ -9,7 +9,7 @@
 - [x] Testing more scenarios than the input sample provided above. Think about edge cases.
 - [x] Instructions on how to run the code
 - [x] Modular, cohesive code with sensible separation of concerns
-= [x] Tests to check if your code is correct, robust and complete
+- [x] Tests to check if your code is correct, robust and complete
 - [x] No over-engineering (you don't need a web framework, database etc). Keep it as simple as possible, but no simpler.
 
 ## Built With
